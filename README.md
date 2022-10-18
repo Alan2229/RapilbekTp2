@@ -12,12 +12,10 @@ Status of last Deployment:<br>
 
 График зависимости написал отдельным файлом [тут](https://github.com/Alan2229/RapilbekTp2/blob/master/graphics.py)
 
-Ссылка на [unittest](https://github.com/Alan2229/RapilbekTp2/blob/master/unitetsts.py)
+Ссылка на [тесты](https://github.com/Alan2229/RapilbekTp2/blob/master/unitetsts.py)
 
 Ссылка на программу, проверяющую время работы программы в зависимости от количества цифр в файле.[тут](https://github.com/Alan2229/RapilbekTp2/blob/master/checking_time_program.py)
 
 Один из возможных графиков:
 
-
-
-<img width="633" alt="Снимок экрана 2022-10-11 в 18 19 57" src="https://user-images.githubusercontent.com/114774497/195132379-157005ba-2d24-4d78-8974-868af1b34818.png">
+<img width="628" alt="Снимок экрана 2022-10-18 в 20 51 41" src="https://user-images.githubusercontent.com/81297922/196507175-36656bc2-daf8-4051-8193-5240838d67f3.png">
