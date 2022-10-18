@@ -3,18 +3,18 @@
 
 
 Status of last Deployment:<br>
-<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CICD/badge.svg?branch=develop'><br>
+<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CI/badge.svg?branch=develop'><br>
 
 
 Рапилбек Алан БИ221.
 
-Ссылка на программу, где написаны методы.[тут](https://github.com/Alan2229/RapilbekTp2/blob/master/Name_function.py)
+Ссылка на программу, где написаны методы.[тут](https://github.com/Alan2229/RapilbekTp2/blob/develop/Name_function.py)
 
-График зависимости написал отдельным файлом [тут](https://github.com/Alan2229/RapilbekTp2/blob/master/graphics.py)
+График зависимости написал отдельным файлом [тут](https://github.com/Alan2229/RapilbekTp2/blob/develop/graphics.py)
 
-Ссылка на [тесты](https://github.com/Alan2229/RapilbekTp2/blob/master/unitetsts.py)
+Ссылка на [тесты](https://github.com/Alan2229/RapilbekTp2/blob/develop/tests.py)
 
-Ссылка на программу, проверяющую время работы программы в зависимости от количества цифр в файле.[тут](https://github.com/Alan2229/RapilbekTp2/blob/master/checking_time_program.py)
+Ссылка на программу, проверяющую время работы программы в зависимости от количества цифр в файле.[тут](https://github.com/Alan2229/RapilbekTp2/blob/develop/checking_time_program.py)
 
 Один из возможных графиков:
 
