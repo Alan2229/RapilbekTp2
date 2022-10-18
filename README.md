@@ -3,7 +3,7 @@
 
 
 Status of last Deployment:<br>
-<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CICD/badge.svg?branch=main'><br>
+<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CICD/badge.svg?branch=develop'><br>
 
 
 Рапилбек Алан БИ221.
