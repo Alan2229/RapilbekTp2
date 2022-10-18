@@ -17,24 +17,3 @@ jobs:
           cd $GITHUB_WORKSPACE
       - name: Run Tests
         run: python -m unittest unitetsts.py
-        
-        
-  sending_message:
-        runs-on: ubuntu-latest
-        needs: [on_build_actions]
-        
-        steps:
-          - name: "Telegram Notification, when test is successed"
-            uses: "appleboy/telegram-action@master"
-            if: ${{ success() }}
-            with:
-              to: ${{ secrets.TP2_CHATID }}
-              token: ${{ secrets.TP2_TOKEN }}
-              args: Все ок
-          - name: "When tests are failed"
-            uses: appleboy/telegram-action@master
-            if: ${{ failure() }}
-            with:
-              to: ${{ secrets.TP2_CHATID }}
-              token: ${{ secrets.TP2_TOKEN }}
-              message: "возникла проблема: ${{ steps.tests.outputs.stderr }}"
