@@ -3,7 +3,7 @@
 
 
 Status of Tests:<br>
-<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CICD/badge.svg?branch=develop'><br>
+<img src='https://github.com/Alan2229/RapilbekTp2/workflows/CI/badge.svg?branch=develop'><br>
 
 
 Рапилбек Алан БИ221.
